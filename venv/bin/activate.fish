@@ -32,7 +32,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/dan_ubuntu/Programming/Inference_Distance/venv"
+set -gx VIRTUAL_ENV "/home/dan_Fedora/Programming/Inference_Distance/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

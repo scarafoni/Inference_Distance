@@ -39,7 +39,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/dan_ubuntu/Programming/Inference_Distance/venv"
+VIRTUAL_ENV="/home/dan_Fedora/Programming/Inference_Distance/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
